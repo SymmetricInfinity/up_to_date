@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    up_to_date (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake (~> 10.0.3)
+  up_to_date!
