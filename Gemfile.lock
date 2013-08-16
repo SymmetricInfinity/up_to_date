@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    up_to_date (0.0.1)
+    up_to_date (0.0.2)
 
 GEM
   remote: https://rubygems.org/

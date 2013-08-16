@@ -4,7 +4,8 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "up_to_date"
-  gem.version       = "0.0.1"
+  gem.version       = "0.0.2"
+  gem.license       = "MIT"
   gem.authors       = ["Stefan Natchev", "Adam Duke"]
   gem.email         = ["stefan.natchev@gmail.com", "adam.v.duke@gmail.com"]
   gem.summary       = "A gem for keeping your gems up to date"
